@@ -1,0 +1,27 @@
+.tamaño{
+    height: 200px;
+} td{
+    width: 200px;
+    text-align: center;
+
+}
+.body{
+background-color: #141313;
+color: white;
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+}
+table, tr,td{
+border: solid rgb(95, 95, 95) 3px;
+    margin: auto;
+}
+img{
+    border: solid 5px black; border-radius: 5px;
+
+}
+footer, h1{
+    margin-right: 100px;
+    margin-left: 100px;
+ }
